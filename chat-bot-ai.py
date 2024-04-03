@@ -27,7 +27,7 @@ search_tool = Tool(
     func=search.run,
 )
 
-llm = OpenAI(temperature=0)
+llm = OpenAI(temperature=0.4)
 
 clip_model = HuggingFaceHub(repo_id="openai/clip-vit-base-patch32", model_kwargs={"device": "cpu"})
 
