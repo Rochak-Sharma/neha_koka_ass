@@ -28,7 +28,9 @@
 
 ## 🚀 Set up the environment variables:
 export OPENAI_API_KEY="your_openai_api_key"
+
 export GOOGLE_API_KEY="your_google_api_key"
+
 export GOOGLE_CSE_ID="your_google_cse_id"
 
 Interact with the AI Tutor by providing text or image inputs:
