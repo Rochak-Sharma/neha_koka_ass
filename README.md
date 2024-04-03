@@ -44,7 +44,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
-  <sub>Made with ❤︎ by <a href="https://github.com/your-username">Your Name</a></sub>
+  <sub>Made with ❤︎ by <a href="https://github.com/Rochak-Sharma">Rochak Sharma</a></sub>
 </div>
 
 ```python
